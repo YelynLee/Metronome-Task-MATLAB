@@ -1,0 +1,15 @@
+# MATLAB 관련 자동 생성 파일
+*.asv              # 자동 저장(Auto-save) 파일
+*.slxc             # Simulink 캐시 파일
+*.mex*             # 컴파일된 MEX 파일 (컴퓨터 환경마다 다르므로 제외)
+*.log              # 실행 로그 파일
+appsimulinklog/    # Simulink 로그 폴더
+
+# 작업 공간 및 데이터 파일
+**/*.mat              # MATLAB 데이터 파일 (용량이 크거나 개인 데이터인 경우 제외)
+*.fig              # GUI 레이아웃 파일 (코드로 재생성 가능하다면 제외, 필요시 유지)
+
+# 운영체제 및 기타 찌꺼기 파일
+.DS_Store          # macOS 시스템 파일
+Thumbs.db          # Windows 썸네일 캐시
+.env               # API 키 등 민감 정보가 담긴 환경 변수 파일
