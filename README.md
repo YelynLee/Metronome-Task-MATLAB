@@ -1,4 +1,4 @@
-# BToM-Data-Modeling-Python
+# Metronome-Task-MATLAB
 Post-research after the following paper [Keeping time and rhythm by internal simulation of sensory stimuli and behavioral actions](https://www.science.org/doi/full/10.1126/sciadv.adh8185)
 
 
